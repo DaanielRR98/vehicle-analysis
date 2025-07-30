@@ -20,3 +20,5 @@ Aunque el analisis de datos se realizo de forma exploratoria en un Jupyter Noteb
 * **Plotly Express:** Librería para la creación de gráficos estadísticos atractivos e interactivos.
 * **Git & GitHub:** Control de versiones y alojamiento del repositorio del proyecto.
 * **Render:** Plataforma para el despliegue de la aplicación web.
+
+**Accede a la Aplicacion Aqui** https://render.com/docs/web-services#port-binding
